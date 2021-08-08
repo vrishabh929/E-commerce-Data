@@ -1,0 +1,6 @@
+Insights:
+1. United Kingdom has noticeably more sales.
+2. Customers with ID no. 58143 and 541431 have noticeably more purchases in United Kingdom
+3. Product "Amazon Fee" has the highest unit price.
+4. Product "Adjust bad debt" has noticeably less unit price.
+5. Product "Postage" has more sales in country "Germany".
